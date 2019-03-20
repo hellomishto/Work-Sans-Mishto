@@ -33,4 +33,4 @@ Will be ready for use after setup:
 * https://github.com/Mageti/css-js-min/blob/master/cssmin.py
 
 ## License
-Work Sans Mishto is licensed under the [SIL Open Font License v1.1](https://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](OFL.txt){:target="_blank"}.
+Work Sans Mishto is licensed under the [SIL Open Font License v1.1](https://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](OFL.txt).
