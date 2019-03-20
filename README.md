@@ -22,7 +22,7 @@ Will be ready for use after setup:
 * `./sources/webfont-generator-v1.3.2/vendor/woff2`
 
 ## Run
-./WorkSansMishto-v2.002.sh
+`./WorkSansMishto-v2.002.sh`
 
 ## Thanks
 * https://github.com/weiweihuanghuang/Work-Sans
