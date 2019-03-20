@@ -1,6 +1,6 @@
 # Work Sans Mishto
 
-![Work Sans Mishto Desktop Waterfall](https://raw.githubusercontent.com/hellomishto/Work-Sans-Mishto/master/WorkSansMishto-Desktop-Waterfall.svg)
+![Work Sans Mishto Desktop Waterfall](https://github.com/hellomishto/Work-Sans-Mishto/raw/master/WorkSansMishto-Desktop-Waterfall.svg)
 
 ## Requirements
 * `git`
